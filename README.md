@@ -5,6 +5,7 @@ Este repositorio contiene implementaciones en Java para distintos Patrones de Di
 Creacionales:
 - [x] Singleton
 - [x] Abstract Factory
+
 Estructurales:
 - [x] Adapter
 - [ ] Composite
