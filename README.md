@@ -8,5 +8,5 @@ Creacionales:
 
 Estructurales:
 - [x] Adapter
-- [ ] Composite
-- [ ] Decorator
+- [x] Composite
+- [x] Decorator
