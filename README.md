@@ -10,3 +10,7 @@ Estructurales:
 - [x] Adapter
 - [x] Composite
 - [x] Decorator
+
+Comportamiento:
+- [x] Observer
+- [x] Visitor
