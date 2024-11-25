@@ -14,3 +14,4 @@ Estructurales:
 Comportamiento:
 - [x] Observer
 - [x] Visitor
+- [x] State
